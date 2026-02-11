@@ -16,6 +16,10 @@ Date Formatting: Converted text-based dates into proper DATE format for time-ser
 Tools Used:
 MySQL Workbench
 
+<img width="1434" height="717" alt="image" src="https://github.com/user-attachments/assets/a87a9215-f888-43aa-979c-6ac2aa76f96c" />
+
+I also happen to turn my quiery into a dashboard. To see the interactive dashboard, please, click here : https://public.tableau.com/shared/9QZR5D9N9?:display_count=n&:origin=viz_share_link
+
 FRENCH VERSION : 
 
 Projet de Nettoyage de Données SQL : World Layoffs (Licenciements Mondiaux)
@@ -35,3 +39,5 @@ Outils utilisés :
 Système de gestion de base de données : MySQL
 
 Interface : MySQL Workbench
+
+J'ai également fait un dashboard basé sur des requêtes que j'avais pu faire. Pour voir la version interactive, cliquez ici : https://public.tableau.com/shared/9QZR5D9N9?:display_count=n&:origin=viz_share_link
